@@ -1,8 +1,5 @@
 require("thebryce.set")
-
-
-
-
+require("thebryce.packer")
 require("thebryce.remap")
 
 local augroup = vim.api.nvim_create_augroup
